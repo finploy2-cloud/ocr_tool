@@ -1,0 +1,25 @@
+{
+  "male": [
+    "Aarav", "Aditya", "Amit", "Abhay", "Anil", "Arjun", "Ashok", "Avi", "Bhavesh", "Chaitanya", "Deepak",
+    "Dev", "Dinesh", "Gaurav", "Harsh", "Ishaan", "Jatin", "Karan", "Kunal", "Manish", "Nikhil",
+    "Omkar", "Pranav", "Rajesh", "Ravi", "Rohit", "Sandeep", "Saurabh", "Shiv", "Siddharth", "Suresh",
+    "Tarun", "Uday", "Vikash", "Vishal", "Yash", "Zain", "Ayaan", "Aryan", "Bhavin", "Chirag", "Darshan",
+    "Eshan", "Farhan", "Girish", "Himanshu", "Irfan", "Jai", "Kartik", "Lalit", "Madhav", "Naveen",
+    "Ojas", "Pradeep", "Quadir", "Raghav", "Sahil", "Tushar", "Umesh", "Vijay", "Wasiq", "Xavier",
+    "Yogesh", "Zeeshan"
+  ],
+  "female": [
+    "Aadhya", "Aaradhya", "Aishwarya", "Ananya", "Anjali", "Ankita", "Aparna", "Aradhana", "Bhavana",
+    "Chandini", "Charulata", "Chhavi", "Deepika", "Divya", "Esha", "Gargi", "Geeta", "Hema", "Isha",
+    "Jaya", "Jyoti", "Kajal", "Kavita", "Komal", "Kriti", "Lalita", "Madhuri", "Manju", "Meera", "Naina",
+    "Neha", "Nidhi", "Nisha", "Pallavi", "Pooja", "Priya", "Radhika", "Rani", "Rekha", "Ritika", "Rupa",
+    "Sakshi", "Sangeeta", "Shalini", "Shreya", "Simran", "Sneha", "Sonali", "Swati", "Tanvi", "Trisha",
+    "Urmila", "Vandana", "Varsha", "Yamini", "Zara", "Aarohi", "Advika", "Alisha", "Amrita", "Ananya",
+    "Anika", "Anushka", "Ashwini", "Avni", "Bhavya", "Chaitali", "Chandana", "Charushila", "Chhavi",
+    "Damini", "Darshita", "Deeksha", "Devi", "Disha", "Esha", "Gargi", "Gaurika", "Gita", "Hema", "Isha",
+    "Jaya", "Jeevika", "Kajal", "Kavya", "Kiran", "Komal", "Krishna", "Kriti", "Lalita", "Madhuri",
+    "Manju", "Meera", "Mitali", "Naina", "Neha", "Nidhi", "Nisha", "Pallavi", "Pooja", "Poojan", "Priya",
+    "Radhika", "Rani", "Rekha", "Ritika", "Rupa", "Sakshi", "Sangeeta", "Shalini", "Shreya", "Simran",
+    "Sneha", "Sonali", "Swati", "Tanvi", "Trisha", "Urmila", "Vandana", "Varsha", "Yamini", "Zara"
+  ]
+}

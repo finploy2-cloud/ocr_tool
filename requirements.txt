@@ -1,0 +1,6 @@
+opencv-python
+phonenumbers
+dateparser
+spacy
+pytest
+pdfminer.six
